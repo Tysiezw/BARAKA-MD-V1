@@ -1,17 +1,17 @@
 
 {
-  "name": "Baraka-Md",
+  "name": "TYSIE-MD",
   "version": "10.8.1",
-  "description": "Baraka-Md latest multi device whatsapp bot",
+  "description": "TYSIE-MD latest multi device whatsapp bot",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name Baraka-Md",
+    "start": "pm2 start index.js --deep-monitoring --attach --name TYSIE-MD",
     "stop": "pm2 stop Baraka-Md",
-    "restart": "pm2 restart Baraka-Md"
+    "restart": "pm2 restart TYSIE-MD"
   },
-  "keywords": ["Baraka-Md", "whatsapp-bot", "whatsapp md bot"],
-  "author": "Baraka Bega",
+  "keywords": ["TYSIE-MD", "whatsapp-bot", "whatsapp md bot"],
+  "author": "TYSIEGAINS",
   "license": "ISC",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
